@@ -2,7 +2,7 @@
 
 I'm currently a Technical PM and a Software Engineer with extensive domain experience in e-commerce and technical experience in leading Backend development in Golang and Google Cloud Platform (GCP) / AWS ecosystem.
 
-Previously worked as Tech Product Lead at [Mercari Japan](https://apps.apple.com/jp/app/mercari-buy-sell-anything/id667861049?l=en-US)
+Previously worked as Tech Product Lead at [Mercari](https://apps.apple.com/jp/app/mercari-buy-sell-anything/id667861049?l=en-US), Japan's unicorn and currently the largest C2C marketplace.
 
 Currently, I'm a student at Cornell University and exploring new technologies, especially applications of GenAI in content creation space.
 
