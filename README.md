@@ -1,5 +1,7 @@
 # Hello there, I'm Bharath 👋
 
+Previous account : [@BharathTalakad](https://github.com/BharathTalakad?tab=overview&from=2023-12-01&to=2023-12-31)
+
 I'm currently a Technical PM and a Software Engineer with extensive domain experience in e-commerce and technical experience in leading Backend development in Golang and Google Cloud Platform (GCP) / AWS ecosystem.
 
 Previously worked as Tech Product Lead at [Mercari](https://apps.apple.com/jp/app/mercari-buy-sell-anything/id667861049?l=en-US), Japan's unicorn and currently the largest C2C marketplace.
