@@ -37,14 +37,14 @@ Some of the languages and tools I have used or worked with before:
 
 <!-- ## GitHub Stats
 
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathts07&show_icons=true) -->
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathts07&show_icons=true) 
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/bharathts07)
 - [Twitter](https://twitter.com/bharathts07)
 - [Email](bharathts07@gmail.com)
-
+-->
 <!---
 bharathts07/bharathts07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
